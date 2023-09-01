@@ -1,0 +1,28 @@
+# Compiled files
+**/*.rs.bk
+**/*.rlib
+**/*.rmeta
+**/*.rmeta.bk
+**/*.so
+**/*.o
+**/*.a
+**/*.dll
+**/*.dylib
+
+# Generated files
+Cargo.lock
+target/
+
+# IDE/Editor specific files
+.idea/
+.vscode/
+*.swp
+*~
+
+# Build artifacts
+build/
+
+# Miscellaneous
+*.log
+*.json
+.env
